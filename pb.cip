@@ -1,0 +1,485 @@
+STATISTICS
+  Problem name     : model
+  Variables        : 240 (240 binary, 0 integer, 0 implicit integer, 0 continuous)
+  Constraints      : 0 initial, 236 maximal
+OBJECTIVE
+  Sense            : maximize
+VARIABLES
+  [binary] <select0>: obj=9, original bounds=[0,1]
+  [binary] <mono0>: obj=0, original bounds=[0,1]
+  [binary] <stereo0>: obj=0, original bounds=[0,1]
+  [binary] <select1>: obj=18, original bounds=[0,1]
+  [binary] <mono1>: obj=0, original bounds=[0,1]
+  [binary] <stereo1>: obj=0, original bounds=[0,1]
+  [binary] <select2>: obj=36, original bounds=[0,1]
+  [binary] <mono2>: obj=0, original bounds=[0,1]
+  [binary] <stereo2>: obj=0, original bounds=[0,1]
+  [binary] <select3>: obj=27, original bounds=[0,1]
+  [binary] <mono3>: obj=0, original bounds=[0,1]
+  [binary] <stereo3>: obj=0, original bounds=[0,1]
+  [binary] <select4>: obj=9, original bounds=[0,1]
+  [binary] <mono4>: obj=0, original bounds=[0,1]
+  [binary] <stereo4>: obj=0, original bounds=[0,1]
+  [binary] <select5>: obj=18, original bounds=[0,1]
+  [binary] <mono5>: obj=0, original bounds=[0,1]
+  [binary] <stereo5>: obj=0, original bounds=[0,1]
+  [binary] <select6>: obj=36, original bounds=[0,1]
+  [binary] <mono6>: obj=0, original bounds=[0,1]
+  [binary] <stereo6>: obj=0, original bounds=[0,1]
+  [binary] <select7>: obj=18, original bounds=[0,1]
+  [binary] <mono7>: obj=0, original bounds=[0,1]
+  [binary] <stereo7>: obj=0, original bounds=[0,1]
+  [binary] <select8>: obj=45, original bounds=[0,1]
+  [binary] <mono8>: obj=0, original bounds=[0,1]
+  [binary] <stereo8>: obj=0, original bounds=[0,1]
+  [binary] <select9>: obj=18, original bounds=[0,1]
+  [binary] <mono9>: obj=0, original bounds=[0,1]
+  [binary] <stereo9>: obj=0, original bounds=[0,1]
+  [binary] <select10>: obj=9, original bounds=[0,1]
+  [binary] <mono10>: obj=0, original bounds=[0,1]
+  [binary] <stereo10>: obj=0, original bounds=[0,1]
+  [binary] <select11>: obj=18, original bounds=[0,1]
+  [binary] <mono11>: obj=0, original bounds=[0,1]
+  [binary] <stereo11>: obj=0, original bounds=[0,1]
+  [binary] <select12>: obj=45, original bounds=[0,1]
+  [binary] <mono12>: obj=0, original bounds=[0,1]
+  [binary] <stereo12>: obj=0, original bounds=[0,1]
+  [binary] <select13>: obj=27, original bounds=[0,1]
+  [binary] <mono13>: obj=0, original bounds=[0,1]
+  [binary] <stereo13>: obj=0, original bounds=[0,1]
+  [binary] <select14>: obj=18, original bounds=[0,1]
+  [binary] <mono14>: obj=0, original bounds=[0,1]
+  [binary] <stereo14>: obj=0, original bounds=[0,1]
+  [binary] <select15>: obj=9, original bounds=[0,1]
+  [binary] <mono15>: obj=0, original bounds=[0,1]
+  [binary] <stereo15>: obj=0, original bounds=[0,1]
+  [binary] <select16>: obj=36, original bounds=[0,1]
+  [binary] <mono16>: obj=0, original bounds=[0,1]
+  [binary] <stereo16>: obj=0, original bounds=[0,1]
+  [binary] <select17>: obj=7, original bounds=[0,1]
+  [binary] <mono17>: obj=0, original bounds=[0,1]
+  [binary] <stereo17>: obj=0, original bounds=[0,1]
+  [binary] <select18>: obj=21, original bounds=[0,1]
+  [binary] <mono18>: obj=0, original bounds=[0,1]
+  [binary] <stereo18>: obj=0, original bounds=[0,1]
+  [binary] <select19>: obj=14, original bounds=[0,1]
+  [binary] <mono19>: obj=0, original bounds=[0,1]
+  [binary] <stereo19>: obj=0, original bounds=[0,1]
+  [binary] <select20>: obj=28, original bounds=[0,1]
+  [binary] <mono20>: obj=0, original bounds=[0,1]
+  [binary] <stereo20>: obj=0, original bounds=[0,1]
+  [binary] <select21>: obj=14, original bounds=[0,1]
+  [binary] <mono21>: obj=0, original bounds=[0,1]
+  [binary] <stereo21>: obj=0, original bounds=[0,1]
+  [binary] <select22>: obj=28, original bounds=[0,1]
+  [binary] <mono22>: obj=0, original bounds=[0,1]
+  [binary] <stereo22>: obj=0, original bounds=[0,1]
+  [binary] <select23>: obj=21, original bounds=[0,1]
+  [binary] <mono23>: obj=0, original bounds=[0,1]
+  [binary] <stereo23>: obj=0, original bounds=[0,1]
+  [binary] <select24>: obj=42, original bounds=[0,1]
+  [binary] <mono24>: obj=0, original bounds=[0,1]
+  [binary] <stereo24>: obj=0, original bounds=[0,1]
+  [binary] <select25>: obj=12, original bounds=[0,1]
+  [binary] <mono25>: obj=0, original bounds=[0,1]
+  [binary] <stereo25>: obj=0, original bounds=[0,1]
+  [binary] <select26>: obj=24, original bounds=[0,1]
+  [binary] <mono26>: obj=0, original bounds=[0,1]
+  [binary] <stereo26>: obj=0, original bounds=[0,1]
+  [binary] <select27>: obj=12, original bounds=[0,1]
+  [binary] <mono27>: obj=0, original bounds=[0,1]
+  [binary] <stereo27>: obj=0, original bounds=[0,1]
+  [binary] <select28>: obj=30, original bounds=[0,1]
+  [binary] <mono28>: obj=0, original bounds=[0,1]
+  [binary] <stereo28>: obj=0, original bounds=[0,1]
+  [binary] <select29>: obj=24, original bounds=[0,1]
+  [binary] <mono29>: obj=0, original bounds=[0,1]
+  [binary] <stereo29>: obj=0, original bounds=[0,1]
+  [binary] <select30>: obj=6, original bounds=[0,1]
+  [binary] <mono30>: obj=0, original bounds=[0,1]
+  [binary] <stereo30>: obj=0, original bounds=[0,1]
+  [binary] <select31>: obj=10, original bounds=[0,1]
+  [binary] <mono31>: obj=0, original bounds=[0,1]
+  [binary] <stereo31>: obj=0, original bounds=[0,1]
+  [binary] <select32>: obj=25, original bounds=[0,1]
+  [binary] <mono32>: obj=0, original bounds=[0,1]
+  [binary] <stereo32>: obj=0, original bounds=[0,1]
+  [binary] <select33>: obj=15, original bounds=[0,1]
+  [binary] <mono33>: obj=0, original bounds=[0,1]
+  [binary] <stereo33>: obj=0, original bounds=[0,1]
+  [binary] <select34>: obj=10, original bounds=[0,1]
+  [binary] <mono34>: obj=0, original bounds=[0,1]
+  [binary] <stereo34>: obj=0, original bounds=[0,1]
+  [binary] <select35>: obj=5, original bounds=[0,1]
+  [binary] <mono35>: obj=0, original bounds=[0,1]
+  [binary] <stereo35>: obj=0, original bounds=[0,1]
+  [binary] <select36>: obj=12, original bounds=[0,1]
+  [binary] <mono36>: obj=0, original bounds=[0,1]
+  [binary] <stereo36>: obj=0, original bounds=[0,1]
+  [binary] <select37>: obj=3, original bounds=[0,1]
+  [binary] <mono37>: obj=0, original bounds=[0,1]
+  [binary] <stereo37>: obj=0, original bounds=[0,1]
+  [binary] <select38>: obj=9, original bounds=[0,1]
+  [binary] <mono38>: obj=0, original bounds=[0,1]
+  [binary] <stereo38>: obj=0, original bounds=[0,1]
+  [binary] <select39>: obj=12, original bounds=[0,1]
+  [binary] <mono39>: obj=0, original bounds=[0,1]
+  [binary] <stereo39>: obj=0, original bounds=[0,1]
+  [binary] <assignto0_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto0_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto0_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto1_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto1_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto1_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto2_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto2_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto2_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto3_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto3_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto3_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto4_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto4_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto4_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto5_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto5_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto5_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto6_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto6_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto6_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto7_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto7_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto7_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto8_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto8_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto8_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto9_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto9_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto9_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto10_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto10_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto10_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto11_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto11_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto11_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto12_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto12_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto12_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto13_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto13_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto13_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto14_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto14_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto14_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto15_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto15_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto15_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto16_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto16_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto16_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto17_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto17_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto17_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto18_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto18_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto18_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto19_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto19_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto19_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto20_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto20_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto20_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto21_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto21_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto21_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto22_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto22_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto22_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto23_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto23_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto23_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto24_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto24_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto24_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto25_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto25_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto25_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto26_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto26_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto26_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto27_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto27_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto27_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto28_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto28_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto28_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto29_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto29_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto29_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto30_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto30_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto30_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto31_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto31_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto31_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto32_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto32_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto32_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto33_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto33_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto33_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto34_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto34_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto34_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto35_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto35_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto35_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto36_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto36_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto36_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto37_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto37_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto37_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto38_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto38_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto38_2>: obj=0, original bounds=[0,1]
+  [binary] <assignto39_0>: obj=0, original bounds=[0,1]
+  [binary] <assignto39_1>: obj=0, original bounds=[0,1]
+  [binary] <assignto39_2>: obj=0, original bounds=[0,1]
+CONSTRAINTS
+  [linear] <c1>: <assignto0_0>[B] +<assignto1_0>[B] <= 1;
+  [linear] <c2>: <assignto0_2>[B] +<assignto1_2>[B] <= 1;
+  [linear] <c3>: <assignto1_0>[B] +<assignto2_0>[B] <= 1;
+  [linear] <c4>: <assignto1_2>[B] +<assignto2_2>[B] <= 1;
+  [linear] <c5>: <assignto1_1>[B] +<assignto3_1>[B] <= 1;
+  [linear] <c6>: <assignto1_1>[B] +<assignto7_1>[B] <= 1;
+  [linear] <c7>: <assignto1_1>[B] +<assignto11_1>[B] <= 1;
+  [linear] <c8>: <assignto1_1>[B] +<assignto13_1>[B] <= 1;
+  [linear] <c9>: <assignto1_1>[B] +<assignto17_1>[B] <= 1;
+  [linear] <c10>: <assignto1_1>[B] +<assignto21_1>[B] <= 1;
+  [linear] <c11>: <assignto1_1>[B] +<assignto23_1>[B] <= 1;
+  [linear] <c12>: <assignto1_1>[B] +<assignto27_1>[B] <= 1;
+  [linear] <c13>: <assignto1_1>[B] +<assignto31_1>[B] <= 1;
+  [linear] <c14>: <assignto1_1>[B] +<assignto33_1>[B] <= 1;
+  [linear] <c15>: <assignto1_1>[B] +<assignto37_1>[B] <= 1;
+  [linear] <c16>: <assignto3_0>[B] +<assignto4_0>[B] <= 1;
+  [linear] <c17>: <assignto3_2>[B] +<assignto4_2>[B] <= 1;
+  [linear] <c18>: <assignto3_0>[B] +<assignto5_0>[B] <= 1;
+  [linear] <c19>: <assignto3_2>[B] +<assignto5_2>[B] <= 1;
+  [linear] <c20>: <assignto3_1>[B] +<assignto7_1>[B] <= 1;
+  [linear] <c21>: <assignto3_1>[B] +<assignto11_1>[B] <= 1;
+  [linear] <c22>: <assignto3_1>[B] +<assignto13_1>[B] <= 1;
+  [linear] <c23>: <assignto3_1>[B] +<assignto17_1>[B] <= 1;
+  [linear] <c24>: <assignto3_1>[B] +<assignto21_1>[B] <= 1;
+  [linear] <c25>: <assignto3_1>[B] +<assignto23_1>[B] <= 1;
+  [linear] <c26>: <assignto3_1>[B] +<assignto27_1>[B] <= 1;
+  [linear] <c27>: <assignto3_1>[B] +<assignto31_1>[B] <= 1;
+  [linear] <c28>: <assignto3_1>[B] +<assignto33_1>[B] <= 1;
+  [linear] <c29>: <assignto3_1>[B] +<assignto37_1>[B] <= 1;
+  [linear] <c30>: <assignto4_0>[B] +<assignto5_0>[B] <= 1;
+  [linear] <c31>: <assignto4_1>[B] +<assignto5_1>[B] <= 1;
+  [linear] <c32>: <assignto4_2>[B] +<assignto5_2>[B] <= 1;
+  [linear] <c33>: <assignto5_0>[B] +<assignto6_0>[B] <= 1;
+  [linear] <c34>: <assignto5_1>[B] +<assignto6_1>[B] <= 1;
+  [linear] <c35>: <assignto5_2>[B] +<assignto6_2>[B] <= 1;
+  [linear] <c36>: <assignto5_0>[B] +<assignto7_0>[B] <= 1;
+  [linear] <c37>: <assignto5_2>[B] +<assignto7_2>[B] <= 1;
+  [linear] <c38>: <assignto6_0>[B] +<assignto7_0>[B] <= 1;
+  [linear] <c39>: <assignto6_2>[B] +<assignto7_2>[B] <= 1;
+  [linear] <c40>: <assignto7_0>[B] +<assignto8_0>[B] <= 1;
+  [linear] <c41>: <assignto7_2>[B] +<assignto8_2>[B] <= 1;
+  [linear] <c42>: <assignto7_0>[B] +<assignto9_0>[B] <= 1;
+  [linear] <c43>: <assignto7_2>[B] +<assignto9_2>[B] <= 1;
+  [linear] <c44>: <assignto7_1>[B] +<assignto11_1>[B] <= 1;
+  [linear] <c45>: <assignto7_1>[B] +<assignto13_1>[B] <= 1;
+  [linear] <c46>: <assignto7_1>[B] +<assignto17_1>[B] <= 1;
+  [linear] <c47>: <assignto7_1>[B] +<assignto21_1>[B] <= 1;
+  [linear] <c48>: <assignto7_1>[B] +<assignto23_1>[B] <= 1;
+  [linear] <c49>: <assignto7_1>[B] +<assignto27_1>[B] <= 1;
+  [linear] <c50>: <assignto7_1>[B] +<assignto31_1>[B] <= 1;
+  [linear] <c51>: <assignto7_1>[B] +<assignto33_1>[B] <= 1;
+  [linear] <c52>: <assignto7_1>[B] +<assignto37_1>[B] <= 1;
+  [linear] <c53>: <assignto8_0>[B] +<assignto9_0>[B] <= 1;
+  [linear] <c54>: <assignto8_1>[B] +<assignto9_1>[B] <= 1;
+  [linear] <c55>: <assignto8_2>[B] +<assignto9_2>[B] <= 1;
+  [linear] <c56>: <assignto8_0>[B] +<assignto10_0>[B] <= 1;
+  [linear] <c57>: <assignto8_1>[B] +<assignto10_1>[B] <= 1;
+  [linear] <c58>: <assignto8_2>[B] +<assignto10_2>[B] <= 1;
+  [linear] <c59>: <assignto9_0>[B] +<assignto10_0>[B] <= 1;
+  [linear] <c60>: <assignto9_1>[B] +<assignto10_1>[B] <= 1;
+  [linear] <c61>: <assignto9_2>[B] +<assignto10_2>[B] <= 1;
+  [linear] <c62>: <assignto9_0>[B] +<assignto11_0>[B] <= 1;
+  [linear] <c63>: <assignto9_2>[B] +<assignto11_2>[B] <= 1;
+  [linear] <c64>: <assignto10_0>[B] +<assignto11_0>[B] <= 1;
+  [linear] <c65>: <assignto10_2>[B] +<assignto11_2>[B] <= 1;
+  [linear] <c66>: <assignto10_0>[B] +<assignto12_0>[B] <= 1;
+  [linear] <c67>: <assignto10_1>[B] +<assignto12_1>[B] <= 1;
+  [linear] <c68>: <assignto10_2>[B] +<assignto12_2>[B] <= 1;
+  [linear] <c69>: <assignto11_0>[B] +<assignto12_0>[B] <= 1;
+  [linear] <c70>: <assignto11_2>[B] +<assignto12_2>[B] <= 1;
+  [linear] <c71>: <assignto11_1>[B] +<assignto13_1>[B] <= 1;
+  [linear] <c72>: <assignto11_1>[B] +<assignto17_1>[B] <= 1;
+  [linear] <c73>: <assignto11_1>[B] +<assignto21_1>[B] <= 1;
+  [linear] <c74>: <assignto11_1>[B] +<assignto23_1>[B] <= 1;
+  [linear] <c75>: <assignto11_1>[B] +<assignto27_1>[B] <= 1;
+  [linear] <c76>: <assignto11_1>[B] +<assignto31_1>[B] <= 1;
+  [linear] <c77>: <assignto11_1>[B] +<assignto33_1>[B] <= 1;
+  [linear] <c78>: <assignto11_1>[B] +<assignto37_1>[B] <= 1;
+  [linear] <c79>: <assignto13_0>[B] +<assignto14_0>[B] <= 1;
+  [linear] <c80>: <assignto13_2>[B] +<assignto14_2>[B] <= 1;
+  [linear] <c81>: <assignto13_0>[B] +<assignto15_0>[B] <= 1;
+  [linear] <c82>: <assignto13_2>[B] +<assignto15_2>[B] <= 1;
+  [linear] <c83>: <assignto13_1>[B] +<assignto17_1>[B] <= 1;
+  [linear] <c84>: <assignto13_1>[B] +<assignto21_1>[B] <= 1;
+  [linear] <c85>: <assignto13_1>[B] +<assignto23_1>[B] <= 1;
+  [linear] <c86>: <assignto13_1>[B] +<assignto27_1>[B] <= 1;
+  [linear] <c87>: <assignto13_1>[B] +<assignto31_1>[B] <= 1;
+  [linear] <c88>: <assignto13_1>[B] +<assignto33_1>[B] <= 1;
+  [linear] <c89>: <assignto13_1>[B] +<assignto37_1>[B] <= 1;
+  [linear] <c90>: <assignto14_0>[B] +<assignto15_0>[B] <= 1;
+  [linear] <c91>: <assignto14_1>[B] +<assignto15_1>[B] <= 1;
+  [linear] <c92>: <assignto14_2>[B] +<assignto15_2>[B] <= 1;
+  [linear] <c93>: <assignto15_0>[B] +<assignto16_0>[B] <= 1;
+  [linear] <c94>: <assignto15_1>[B] +<assignto16_1>[B] <= 1;
+  [linear] <c95>: <assignto15_2>[B] +<assignto16_2>[B] <= 1;
+  [linear] <c96>: <assignto15_0>[B] +<assignto17_0>[B] <= 1;
+  [linear] <c97>: <assignto15_2>[B] +<assignto17_2>[B] <= 1;
+  [linear] <c98>: <assignto16_0>[B] +<assignto17_0>[B] <= 1;
+  [linear] <c99>: <assignto16_2>[B] +<assignto17_2>[B] <= 1;
+  [linear] <c100>: <assignto16_0>[B] +<assignto18_0>[B] <= 1;
+  [linear] <c101>: <assignto16_1>[B] +<assignto18_1>[B] <= 1;
+  [linear] <c102>: <assignto16_2>[B] +<assignto18_2>[B] <= 1;
+  [linear] <c103>: <assignto17_0>[B] +<assignto18_0>[B] <= 1;
+  [linear] <c104>: <assignto17_2>[B] +<assignto18_2>[B] <= 1;
+  [linear] <c105>: <assignto17_1>[B] +<assignto21_1>[B] <= 1;
+  [linear] <c106>: <assignto17_1>[B] +<assignto23_1>[B] <= 1;
+  [linear] <c107>: <assignto17_1>[B] +<assignto27_1>[B] <= 1;
+  [linear] <c108>: <assignto17_1>[B] +<assignto31_1>[B] <= 1;
+  [linear] <c109>: <assignto17_1>[B] +<assignto33_1>[B] <= 1;
+  [linear] <c110>: <assignto17_1>[B] +<assignto37_1>[B] <= 1;
+  [linear] <c111>: <assignto18_0>[B] +<assignto19_0>[B] <= 1;
+  [linear] <c112>: <assignto18_1>[B] +<assignto19_1>[B] <= 1;
+  [linear] <c113>: <assignto18_2>[B] +<assignto19_2>[B] <= 1;
+  [linear] <c114>: <assignto19_0>[B] +<assignto20_0>[B] <= 1;
+  [linear] <c115>: <assignto19_1>[B] +<assignto20_1>[B] <= 1;
+  [linear] <c116>: <assignto19_2>[B] +<assignto20_2>[B] <= 1;
+  [linear] <c117>: <assignto19_0>[B] +<assignto22_0>[B] <= 1;
+  [linear] <c118>: <assignto19_1>[B] +<assignto22_1>[B] <= 1;
+  [linear] <c119>: <assignto19_2>[B] +<assignto22_2>[B] <= 1;
+  [linear] <c120>: <assignto21_0>[B] +<assignto22_0>[B] <= 1;
+  [linear] <c121>: <assignto21_2>[B] +<assignto22_2>[B] <= 1;
+  [linear] <c122>: <assignto21_1>[B] +<assignto23_1>[B] <= 1;
+  [linear] <c123>: <assignto21_1>[B] +<assignto27_1>[B] <= 1;
+  [linear] <c124>: <assignto21_1>[B] +<assignto31_1>[B] <= 1;
+  [linear] <c125>: <assignto21_1>[B] +<assignto33_1>[B] <= 1;
+  [linear] <c126>: <assignto21_1>[B] +<assignto37_1>[B] <= 1;
+  [linear] <c127>: <assignto22_0>[B] +<assignto23_0>[B] <= 1;
+  [linear] <c128>: <assignto22_2>[B] +<assignto23_2>[B] <= 1;
+  [linear] <c129>: <assignto23_0>[B] +<assignto24_0>[B] <= 1;
+  [linear] <c130>: <assignto23_2>[B] +<assignto24_2>[B] <= 1;
+  [linear] <c131>: <assignto23_0>[B] +<assignto25_0>[B] <= 1;
+  [linear] <c132>: <assignto23_2>[B] +<assignto25_2>[B] <= 1;
+  [linear] <c133>: <assignto23_1>[B] +<assignto27_1>[B] <= 1;
+  [linear] <c134>: <assignto23_1>[B] +<assignto31_1>[B] <= 1;
+  [linear] <c135>: <assignto23_1>[B] +<assignto33_1>[B] <= 1;
+  [linear] <c136>: <assignto23_1>[B] +<assignto37_1>[B] <= 1;
+  [linear] <c137>: <assignto24_0>[B] +<assignto25_0>[B] <= 1;
+  [linear] <c138>: <assignto24_1>[B] +<assignto25_1>[B] <= 1;
+  [linear] <c139>: <assignto24_2>[B] +<assignto25_2>[B] <= 1;
+  [linear] <c140>: <assignto25_0>[B] +<assignto26_0>[B] <= 1;
+  [linear] <c141>: <assignto25_1>[B] +<assignto26_1>[B] <= 1;
+  [linear] <c142>: <assignto25_2>[B] +<assignto26_2>[B] <= 1;
+  [linear] <c143>: <assignto25_0>[B] +<assignto27_0>[B] <= 1;
+  [linear] <c144>: <assignto25_2>[B] +<assignto27_2>[B] <= 1;
+  [linear] <c145>: <assignto26_0>[B] +<assignto27_0>[B] <= 1;
+  [linear] <c146>: <assignto26_2>[B] +<assignto27_2>[B] <= 1;
+  [linear] <c147>: <assignto27_0>[B] +<assignto28_0>[B] <= 1;
+  [linear] <c148>: <assignto27_2>[B] +<assignto28_2>[B] <= 1;
+  [linear] <c149>: <assignto27_0>[B] +<assignto29_0>[B] <= 1;
+  [linear] <c150>: <assignto27_2>[B] +<assignto29_2>[B] <= 1;
+  [linear] <c151>: <assignto27_1>[B] +<assignto31_1>[B] <= 1;
+  [linear] <c152>: <assignto27_1>[B] +<assignto33_1>[B] <= 1;
+  [linear] <c153>: <assignto27_1>[B] +<assignto37_1>[B] <= 1;
+  [linear] <c154>: <assignto28_0>[B] +<assignto29_0>[B] <= 1;
+  [linear] <c155>: <assignto28_1>[B] +<assignto29_1>[B] <= 1;
+  [linear] <c156>: <assignto28_2>[B] +<assignto29_2>[B] <= 1;
+  [linear] <c157>: <assignto28_0>[B] +<assignto30_0>[B] <= 1;
+  [linear] <c158>: <assignto28_1>[B] +<assignto30_1>[B] <= 1;
+  [linear] <c159>: <assignto28_2>[B] +<assignto30_2>[B] <= 1;
+  [linear] <c160>: <assignto28_0>[B] +<assignto31_0>[B] <= 1;
+  [linear] <c161>: <assignto28_2>[B] +<assignto31_2>[B] <= 1;
+  [linear] <c162>: <assignto29_0>[B] +<assignto30_0>[B] <= 1;
+  [linear] <c163>: <assignto29_1>[B] +<assignto30_1>[B] <= 1;
+  [linear] <c164>: <assignto29_2>[B] +<assignto30_2>[B] <= 1;
+  [linear] <c165>: <assignto29_0>[B] +<assignto31_0>[B] <= 1;
+  [linear] <c166>: <assignto29_2>[B] +<assignto31_2>[B] <= 1;
+  [linear] <c167>: <assignto30_0>[B] +<assignto31_0>[B] <= 1;
+  [linear] <c168>: <assignto30_2>[B] +<assignto31_2>[B] <= 1;
+  [linear] <c169>: <assignto30_0>[B] +<assignto32_0>[B] <= 1;
+  [linear] <c170>: <assignto30_1>[B] +<assignto32_1>[B] <= 1;
+  [linear] <c171>: <assignto30_2>[B] +<assignto32_2>[B] <= 1;
+  [linear] <c172>: <assignto31_0>[B] +<assignto32_0>[B] <= 1;
+  [linear] <c173>: <assignto31_2>[B] +<assignto32_2>[B] <= 1;
+  [linear] <c174>: <assignto31_1>[B] +<assignto33_1>[B] <= 1;
+  [linear] <c175>: <assignto31_1>[B] +<assignto37_1>[B] <= 1;
+  [linear] <c176>: <assignto33_0>[B] +<assignto34_0>[B] <= 1;
+  [linear] <c177>: <assignto33_2>[B] +<assignto34_2>[B] <= 1;
+  [linear] <c178>: <assignto33_0>[B] +<assignto35_0>[B] <= 1;
+  [linear] <c179>: <assignto33_2>[B] +<assignto35_2>[B] <= 1;
+  [linear] <c180>: <assignto33_1>[B] +<assignto37_1>[B] <= 1;
+  [linear] <c181>: <assignto34_0>[B] +<assignto35_0>[B] <= 1;
+  [linear] <c182>: <assignto34_1>[B] +<assignto35_1>[B] <= 1;
+  [linear] <c183>: <assignto34_2>[B] +<assignto35_2>[B] <= 1;
+  [linear] <c184>: <assignto35_0>[B] +<assignto36_0>[B] <= 1;
+  [linear] <c185>: <assignto35_1>[B] +<assignto36_1>[B] <= 1;
+  [linear] <c186>: <assignto35_2>[B] +<assignto36_2>[B] <= 1;
+  [linear] <c187>: <assignto35_0>[B] +<assignto37_0>[B] <= 1;
+  [linear] <c188>: <assignto35_2>[B] +<assignto37_2>[B] <= 1;
+  [linear] <c189>: <assignto36_0>[B] +<assignto37_0>[B] <= 1;
+  [linear] <c190>: <assignto36_2>[B] +<assignto37_2>[B] <= 1;
+  [linear] <c191>: <assignto36_0>[B] +<assignto38_0>[B] <= 1;
+  [linear] <c192>: <assignto36_1>[B] +<assignto38_1>[B] <= 1;
+  [linear] <c193>: <assignto36_2>[B] +<assignto38_2>[B] <= 1;
+  [linear] <c194>: <assignto37_0>[B] +<assignto38_0>[B] <= 1;
+  [linear] <c195>: <assignto37_2>[B] +<assignto38_2>[B] <= 1;
+  [linear] <c196>:  +10<select0>[B] +20<select1>[B] +10<select2>[B] +20<select3>[B] +10<select4>[B] +10<select5>[B] +10<select6>[B] +20<select7>[B] +10<select8>[B] +10<select9>[B] +10<select10>[B] +20<select11>[B] +10<select12>[B] +20<select13>[B] +10<select14>[B] +10<select15>[B] +10<select16>[B] +20<select17>[B] +10<select18>[B] +10<select19>[B] +20<select20>[B] +20<select21>[B] +10<select22>[B] +20<select23>[B] +10<select24>[B] +10<select25>[B] +10<select26>[B] +20<select27>[B] +10<select28>[B] +10<select29>[B] +10<select30>[B] +20<select31>[B] +10<select32>[B] +20<select33>[B] +10<select34>[B] +10<select35>[B] +10<select36>[B] +20<select37>[B] +10<select38>[B] +20<select39>[B] <= 300;
+  [linear] <c197>: <stereo0>[B] == 1;
+  [linear] <c198>: <mono1>[B] == 1;
+  [linear] <c199>: <stereo2>[B] == 1;
+  [linear] <c200>: <mono3>[B] == 1;
+  [linear] <c201>: <stereo4>[B] == 1;
+  [linear] <c202>: <stereo5>[B] == 1;
+  [linear] <c203>: <stereo6>[B] == 1;
+  [linear] <c204>: <mono7>[B] == 1;
+  [linear] <c205>: <stereo8>[B] == 1;
+  [linear] <c206>: <stereo9>[B] == 1;
+  [linear] <c207>: <stereo10>[B] == 1;
+  [linear] <c208>: <mono11>[B] == 1;
+  [linear] <c209>: <stereo12>[B] == 1;
+  [linear] <c210>: <mono13>[B] == 1;
+  [linear] <c211>: <stereo14>[B] == 1;
+  [linear] <c212>: <stereo15>[B] == 1;
+  [linear] <c213>: <stereo16>[B] == 1;
+  [linear] <c214>: <mono17>[B] == 1;
+  [linear] <c215>: <stereo18>[B] == 1;
+  [linear] <c216>: <stereo19>[B] == 1;
+  [linear] <c217>: <mono20>[B] == 1;
+  [linear] <c218>: <mono21>[B] == 1;
+  [linear] <c219>: <stereo22>[B] == 1;
+  [linear] <c220>: <mono23>[B] == 1;
+  [linear] <c221>: <stereo24>[B] == 1;
+  [linear] <c222>: <stereo25>[B] == 1;
+  [linear] <c223>: <stereo26>[B] == 1;
+  [linear] <c224>: <mono27>[B] == 1;
+  [linear] <c225>: <stereo28>[B] == 1;
+  [linear] <c226>: <stereo29>[B] == 1;
+  [linear] <c227>: <stereo30>[B] == 1;
+  [linear] <c228>: <mono31>[B] == 1;
+  [linear] <c229>: <stereo32>[B] == 1;
+  [linear] <c230>: <mono33>[B] == 1;
+  [linear] <c231>: <stereo34>[B] == 1;
+  [linear] <c232>: <stereo35>[B] == 1;
+  [linear] <c233>: <stereo36>[B] == 1;
+  [linear] <c234>: <mono37>[B] == 1;
+  [linear] <c235>: <stereo38>[B] == 1;
+  [linear] <c236>: <mono39>[B] == 1;
+END
